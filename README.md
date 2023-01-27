@@ -10,7 +10,7 @@ Sensor MQ7 adalah sebuah sensor yang dapat mendeteksi gas karbon monoksida (CO) 
 Kipas sebagai pengontrol udara di dalam alat ini berfungsi untuk mengatur kecepatan kipas sesuai dengan kadar CO yang terdeteksi oleh sensor MQ7. Jika kadar CO sudah terlalu tinggi, maka kipas akan diaktifkan dengan kecepatan yang cukup tinggi untuk mengeluarkan gas CO dari ruangan. Sebaliknya, jika kadar CO sudah aman, maka kipas akan diaktifkan dengan kecepatan yang lebih rendah untuk menjaga kualitas udara di dalam ruangan.
 
 Dengan demikian, alat IoT untuk memonitor gas menggunakan sensor MQ7 dan kipas sebagai pengontrol udara merupakan sebuah sistem yang sangat bermanfaat untuk memantau kualitas udara di dalam ruangan, serta memberikan informasi yang dibutuhkan untuk menjaga kesehatan kita.
- - [SmokeBending Website](https://smoke-bending.up.railway.app/)
+ - [SmokeBending Website](https://smokebending.up.railway.app/)
  - [SmokeBending Website Backup](https://smokebending.cyclic.app/)
  - [Source Code ESP8266](https://github.com/Arcfoz/SmokeBending/blob/128ffd7418afffc011190d3de9326b02a4d8a9b2/ESP8266/SmokeBending_ESP8266.ino)
  - [Source Code Website](https://github.com/Arcfoz/SmokeBending-Website)
