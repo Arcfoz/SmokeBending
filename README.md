@@ -1,6 +1,7 @@
 
 ![Logo](https://github.com/Arcfoz/SmokeBending-Website/blob/main/public/img/product.png?raw=true)
 
+## [Dokumentasi alat](https://github.com/Arcfoz/SmokeBending/blob/c158f64d6096181f0bdd4f01a4707ece47cb9d8f/Dokumentasi%20Alat%20Smoke%20Bending.pdf)
 
 ## Smoke Bending
 Smoke Bending menggunakan sensor MQ7 dan kipas sebagai pengontrol udara merupakan sebuah sistem yang dapat memantau kadar gas yang ada di suatu ruangan atau lingkungan, serta mengatur kecepatan kipas untuk mengontrol kualitas udara di dalam ruangan.
